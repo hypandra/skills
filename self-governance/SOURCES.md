@@ -6,7 +6,14 @@
 - [Cursor pstack: Separate Before Serializing Shared State](https://github.com/cursor/plugins/blob/main/pstack/skills/principle-separate-before-serializing-shared-state/SKILL.md): reduce unnecessary sharing and distinguish conventions from structural controls.
 - [Zintellix swarm skill, inspected commit](https://github.com/Zintellix/Claude-Skills/blob/695e9dbe52b8f322426df195af2cb276e6d2eed6/skills/swarm/SKILL.md): complementary responsibilities, evidence, and synthesis; its fixed team size and architecture are not adopted.
 
-The source draft received an independent source review with no blocking findings. This public export changes the reference footer and has not received a separate public-distribution review. No operational enforcement or measured benefits are established.
+An earlier source revision received an independent review with no blocking findings. The later changes below have not received a new independent review. No operational enforcement or measured benefits are established.
 
 
 Linked external works retain their own licenses; this repository does not relicense them.
+
+## Later comparisons incorporated into the draft
+
+- [s4h-economics-coordination](https://github.com/human-avatar/skills-for-humanity/blob/a30df8b67698ccb03ef5e35d68c2eddc5321ad3f/skills/s4h-economics-coordination/SKILL.md): distinguish depletion, underprovision, assurance, and coordination before selecting rules. We adopted a short diagnostic question, not its whole procedure.
+- [corrigibility-assess (archived v3 skill)](https://github.com/anivar/corrigibility-schema/blob/4f7bac8610584d3acd03631d275734e3e296de84/archive/skills-v3-era/assess/SKILL.md): meaningful exit, independent audit, and binding participant influence. We added challenge, amendment, and exit questions; its five-test verdict and newer protocol are not adopted.
+
+These were examined after the initial draft, not initial influences.
