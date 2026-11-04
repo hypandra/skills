@@ -17,3 +17,7 @@ Linked external works retain their own licenses; this repository does not relice
 - [corrigibility-assess (archived v3 skill)](https://github.com/anivar/corrigibility-schema/blob/4f7bac8610584d3acd03631d275734e3e296de84/archive/skills-v3-era/assess/SKILL.md): meaningful exit, independent audit, and binding participant influence. We added challenge, amendment, and exit questions; its five-test verdict and newer protocol are not adopted.
 
 These were examined after the initial draft, not initial influences.
+
+## Progressive disclosure
+
+At Daniel’s request, the draft now routes to Evaluate (existing arrangements and actual use), Design (proposed rules), and Explore (alternatives and bounded trials). Shared authority boundaries remain in SKILL.md; only the relevant reference is loaded. This organization draws together the previously credited governance and coordination comparisons; it is not a newly discovered Ostrom framework. Prior independent review predates this restructuring.

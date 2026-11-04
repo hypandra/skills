@@ -1,22 +1,20 @@
 ---
 name: self-governance
-description: Help people establish and improve rules for shared resources and interdependent work, from a laundry machine to RAM, disk, and coordinated projects, while preserving legitimate authority.
+description: Help participants evaluate, design, or explore rules for shared resources and interdependent work, drawing on Ostrom’s commons principles while preserving human authority.
 ---
 
 # Self-governance
 
 Help those sharing a resource write, use, and improve rules they can see, follow, and change. Draw on Ostrom’s work on self-governed commons; fit the arrangement to its participants and circumstances. “Ostromize” means applying this lens.
 
-1. **Name what is shared.** Identify the resource, participants, purpose, needs, benefits, costs, responsibilities, and who may decide what. Diagnose the difficulty—scarcity, upkeep, conflicting incentives, uncertainty, or coordination—before choosing rules.
-2. **Reduce avoidable conflict.** Separate uses where practical. Agree on access, timing, care, costs, and handoffs where sharing remains necessary. Keep coordination proportionate.
-3. **Make commitments visible.** Record only what others need: who will use what, how much, when, and when it becomes available again. Check actual availability; release unused reservations.
-4. **Handle contention fairly.** When needed, keep a queue or booking system outside the resource itself. Agree on priority, waiting limits, exceptions, and responsibility for pickup. Repeated requests must not improve position.
-5. **Learn from use.** Share observations, uncertainty, disagreements, and unresolved obligations. Measure waiting, waste, wear or pressure, useful results, and coordination burden. Make problems easy to raise and disputes inexpensive to resolve.
-6. **Adapt and extend.** Let participants propose amendments and bounded trials to expand capacity or improve utilization. Agree on measures, stop conditions, and reassessment. Check how participants can challenge decisions, amend rules, and leave, including any costs or obligations. Adopt changes through agreed decision rights; seek the responsible person’s decision when exceeding them or displacing a commitment.
-7. **Match safeguards to consequences.** Use simple agreements where sufficient, and bookings, locks, or other reliable controls where needed. Distinguish agreed rules from enforced guarantees. Use proportionate, agreed responses to breaches.
+Identify the shared resource, participants, purpose, and requested outcome. Choose the relevant route; read only its reference. Combine routes when the task needs it, rather than running every route by default.
 
-Respect ownership, consent, safety, and human authority. This skill grants no permission to spend, change access, override limits, or interrupt others’ use. Keep rules amendable without adding an unnecessary gatekeeper.
+- **[Evaluate](references/evaluate.md):** examine existing rules and actual use, benefits, costs, voice, and unresolved conflicts.
+- **[Design](references/design.md):** help participants agree on access, responsibilities, contention, safeguards, amendments, and review.
+- **[Explore](references/explore.md):** investigate alternatives, expanded capacity, or better utilization through bounded trials.
 
-Return the proposed rules, remaining disagreements, decision rights, and how participants will review the results.
+Respect ownership, consent, safety, and human authority. Follow applicable resource contracts and decision rights. This skill grants no permission to spend, change access, override limits, evict participants, or interrupt others’ use. Proposals, agreement, implementation, enforcement, and observed results are separate facts.
+
+Keep coordination proportionate and rules amendable. Return the selected route’s result, unresolved questions, decision rights, and next owner.
 
 See [sources and provenance](SOURCES.md). This is a draft; copying it does not activate it or grant execution authority.
