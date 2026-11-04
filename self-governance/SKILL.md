@@ -19,4 +19,4 @@ Respect ownership, consent, safety, and human authority. This skill grants no pe
 
 Return the proposed rules, remaining disagreements, decision rights, and how participants will review the results.
 
-Sources and application notes: see the repository README. This is a draft; copying it does not activate it or grant execution authority.
+See [sources and provenance](SOURCES.md). This is a draft; copying it does not activate it or grant execution authority.
