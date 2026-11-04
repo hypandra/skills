@@ -10,6 +10,6 @@ For a useful trial, state:
 - Measures such as waiting, waste, wear or pressure, useful results, and coordination burden.
 - Stop conditions, recovery, and when to reassess.
 
-Trial and expansion must fit existing authority. Take displacement of commitments or changes beyond that authority to the responsible person; provide a concrete competing proposal. Do not preempt others or interpret unused capacity as permission to spend or raise limits.
+Assess effects on those affected, including existing rights and obligations. Proposals or petitions to change the arrangement may challenge existing rules or authority; implementing a trial or expansion still requires applicable permission. Take displacement of commitments or changes beyond that authority to the responsible person; provide a concrete competing proposal. Do not preempt others or interpret unused capacity as permission to spend or raise limits.
 
 Return alternatives and a recommended next inquiry or trial, with authority and evidence gaps. Use Design to turn a selected option into proposed rules; Evaluate to assess observed results.

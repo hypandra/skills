@@ -21,3 +21,7 @@ These were examined after the initial draft, not initial influences.
 ## Progressive disclosure
 
 At Daniel’s request, the draft now routes to Evaluate (existing arrangements and actual use), Design (proposed rules), and Explore (alternatives and bounded trials). Shared authority boundaries remain in SKILL.md; only the relevant reference is loaded. This organization draws together the previously credited governance and coordination comparisons; it is not a newly discovered Ostrom framework. Prior independent review predates this restructuring.
+
+## Rights, authority, and changes to arrangements
+
+Daniel’s November 4 wording refinement distinguishes meaningful participant voice and decision rights, effects on those affected, and respect for existing rights, obligations, and legitimate authority—including when seeking to change them. Participants may propose or petition for change; implementation still needs applicable permission. This draft update has not received a new independent review; the latest independent PASS covers its predecessor only. No installation, activation, or measured operational benefit is established.

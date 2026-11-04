@@ -4,7 +4,7 @@ Read the rules and inspect actual use. Identify the resource, participants, need
 
 Compare the arrangement with its purpose:
 - Are access, responsibilities, and release obligations clear and locally workable?
-- Are contention, exceptions, care, and handoffs handled fairly?
+- Are contention, exceptions, care, and handoffs handled fairly, including effects on those affected?
 - Can affected participants challenge decisions, amend rules, and leave? What costs or obligations limit those options?
 - Are monitoring and responses proportionate, and disputes inexpensive to resolve?
 - Do capacity, waiting, waste, pressure, useful results, and coordination burden support the claimed outcome?

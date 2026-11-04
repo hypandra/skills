@@ -11,4 +11,4 @@ Draft only the rules needed for this context:
 
 Use simple agreements where sufficient and reliable controls where consequences warrant them. Distinguish agreement from implementation and enforcement. For larger arrangements, keep decisions local where possible and coordinate across groups where necessary.
 
-Return proposed rules, unresolved disagreements, who can adopt them, and how results will be reviewed. Do not present a proposal as adopted.
+Return proposed rules, unresolved disagreements, who can adopt them, and how results will be reviewed. Do not present a proposal as adopted. Participants may propose or petition to change existing rules or authority; that does not permit violating applicable constraints before a change is authorized.
